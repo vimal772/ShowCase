@@ -11,7 +11,7 @@ WEATHER APP
   - Based on the knight moving pattern in chess it can go anywhere in the chess board
   - Here we implemented algortithm to find the shortest path
   - BFS approch to find this
-LINK: https://vimal772.github.io/KnightTravails/
+  - LINK: https://vimal772.github.io/KnightTravails/
 
 LIBRARY APP
  - uses local storage to save the data
@@ -36,7 +36,7 @@ TIC TAC TOE
 CALCULATOR APP
  - perform all simple calculation
  - visually improved project
-Link: https://vimal772.github.io/calcultator/
+ - Link: https://vimal772.github.io/calcultator/
 
 GRID LAYOUT
  - css focused project uses grid to achieve this structure
